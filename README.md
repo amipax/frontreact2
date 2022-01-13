@@ -1,4 +1,4 @@
-## Bienvenido a proyecto Front-end de React
+## Bienvenido al proyecto Front-end de React
 
 **Instalacion**
 
