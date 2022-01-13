@@ -1,6 +1,7 @@
-##Bienvenido a proyecto Front-end de React
+## Bienvenido a proyecto Front-end de React
 
 **Instalacion**
+
 Crear carpeta de proyectos
 `mkdir mundopacifico`
 
