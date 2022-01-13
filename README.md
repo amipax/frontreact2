@@ -17,6 +17,9 @@ Ingresar a la carpeta de la aplicacion
 instalar dependecias
 `npm install`
 
+Instalar Axios
+`npm install axios --save`
+
 Ejecutar la aplicacion (modo desarrollo)
 `npm start`
 
